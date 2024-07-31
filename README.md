@@ -9,6 +9,8 @@ Inform planning, not intended to be used for project level design.
 Use precautionary assumptions which include higher risk scenarios.
 Provide flexibility for assessing subregional vulnerability
 
+*The code included here is specialized for use within the ArcGIS environment. An ArcGIS license is needed to replicate the analysis.*
+
 ## Description
 The RSAP Combined Hazard layers combine hazard data from two sources, including the Adapting To Rising Tides SLR flood maps and USGS COSMOS shallow groundwater rise maps to represent future flooding from SLR, groundwater, and storm surge/extreme tides. 
 
