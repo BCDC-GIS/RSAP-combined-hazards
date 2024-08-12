@@ -38,7 +38,8 @@ Table 1.
 
 However, OPC Guidance recommendations did not always perfectly reflect the water levels available in either ART or COSMOS data. In both cases, we chose the closest value to the recommended water level. All values for both were within half a foot of the OPC guidance value, with most being significantly closer (Table 1).
 
-For each scenario we added a 100 year storm surge value that is approximately 3.5ft greater than the Sea Level Rise value. This value comes from the [AECOM 2016 Tidal Datums and Extreme Tides Study](https://www.adaptingtorisingtides.org/wp-content/uploads/2018/07/FINAL-Regional-Matrix-20180525.pdf) that was produced for the bay.
+For each scenario we added a 100 year storm surge value that is approximately 3.5ft greater than the Sea Level Rise value. This value comes from the [AECOM 2016 Tidal Datums and Extreme Tides Study](https://www.adaptingtorisingtides.org/wp-content/uploads/2018/07/FINAL-Regional-Matrix-20180525.pdf) that was produced for the bay. Only goundwater rise data for SLR scenarios and not for the added storm surge water levels were included. This is due to a lack of scientific consensus of how acutely storm surge effects groundwater, how/if the effects of storm surge on groundwater diminish as you move inland, and variation in how quickly groundwater returns to pre storm depths.
+
 
 These three hazards combined created the following 10 categories which show where multiple hazards are present in the same area:
 
