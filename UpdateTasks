@@ -1,11 +1,11 @@
 Update code to include the following labels for the hazard types
 
 Emergent Groundwater = Emergent
-Tidal Inundation with Storm Surge, Emergent Groundwater = SLR + Storm Surge + Emergent
-Storm Surge, Very Shallow Groundwater (0-3 ft below ground) = Storm Surge + Very Shallow
-Storm Surge, Shallow Groundwater (3-6 ft below ground) = Storm Surge + Shallow
-Storm Surge, Moderately Shallow Groundwater (6-9 ft below ground) = Storm Surge + Moderately Shallow
-Storm Surge, Emergent Groundwater = Storm Surge + Emergent
+Tidal Inundation, Emergent Groundwater = SLR + Storm Surge + Emergent
+Tidal Inundation with Storm Surge, Very Shallow Groundwater (0-3 ft below ground) = Storm Surge + Very Shallow
+Tidal Inundation with Storm Surge, Shallow Groundwater (3-6 ft below ground) = Storm Surge + Shallow
+Tidal Inundation with Storm Surge, Moderately Shallow Groundwater (6-9 ft below ground) = Storm Surge + Moderately Shallow
+Tidal Inundation with Storm Surge = Storm Surge + Emergent
 Very Shallow Groundwater (0-3 ft below ground) = Very Shallow
 Shallow Groundwater (3-6 ft below ground) = Shallow
 Moderately Shallow Groundwater (6-9 ft below ground) = Moderately Shallow
