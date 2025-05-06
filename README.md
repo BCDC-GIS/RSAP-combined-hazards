@@ -1,18 +1,17 @@
 # RSAP Combined Hazard Methodology
 ## Summary
-The Bay Adapt Regional Shoreline Adaptation Plan utilizes combined hazard layers to support exposure analysis, guideline development and implementation. These layers represent the potential future flooding condition from sea level rise, groundwater rise, and storm surge/extreme tides. The four layers represent future flooding conditions based on scenarios described in the 2024 OPC Sea Level Rise guidance. 
+The Bay Adapt Regional Shoreline Adaptation Plan utilizes combined hazard layers to support exposure analysis, guideline development and implementation. These layers represent the potential future flooding condition from sea level rise, groundwater rise, and storm surge/extreme tides. The four layers represent future flooding conditions based on scenarios described in the [2024 State of California Sea Level Rise guidance](https://opc.ca.gov/wp-content/uploads/2024/05/California-Sea-Level-Rise-Guidance-2024-508.pdf).
+These layers combine hazard data from two sources, the [Adapting To Rising Tides Bay Shoreline Flood Explorer](https://explorer.adaptingtorisingtides.org/home) and [USGS Coastal Storm Modeling System (CoSMoS)](https://ourcoastourfuture.org/hazard-map/) shallow groundwater rise maps. 
 
-These layers combine hazard data from two sources, the Adapting To Rising Tides Sea Level Rise (SLR) flood maps and USGS COSMOS shallow groundwater rise maps. 
+These layers are intended to support Subregional Shoreline Adaptation Plan development. Coastal hazard assumptions are intended to: 
+  - Inform planning, not intended to be used for project level design. 
+  - Use precautionary assumptions which include higher risk scenarios.
+  - Provide flexibility for assessing subregional vulnerability.
 
-These layers are intended to support subregional shoreline adaptation plan development. Coastal hazard assumptions are intended to: 
-Inform planning, not intended to be used for project level design. 
-Use precautionary assumptions which include higher risk scenarios.
-Provide flexibility for assessing subregional vulnerability
-
-*The code included here is specialized for use within the ArcGIS environment. An ArcGIS license is needed to replicate the analysis.*
+*The code included here is specialized for use within the ArcGIS environment. An ArcGIS Basic license is needed to replicate the analysis.*
 
 ## Description
-The RSAP Combined Hazard layers combine hazard data from two sources, including the Adapting To Rising Tides SLR flood maps and USGS COSMOS shallow groundwater rise maps to represent future flooding from SLR, groundwater, and storm surge/extreme tides. 
+The RSAP Combined Hazard layers combine hazard data from two sources, including the Adapting To Rising Tides Bay Shoreline Flood Explorer and the USGS CoSMoS shalow groundwater rise maps to represent future flooding from SLR, groundwater, and storm surge/extreme tides. 
 
 ART flood maps use a Total Water Level (TWL) approach for estimating flood extent that differs from FEMA and other established engineering practices. For ART flood mapping, TWL refers to the combination of tides, storm surge, and sea level rise to contribute to a water level and flood extent above Mean Higher High Water (MHHW), but does not include waves. [You can read more about the ART flood mapping](https://www.adaptingtorisingtides.org/wp-content/uploads/2018/07/BATA-ART-SLR-Analysis-and-Mapping-Report-Final-20170908.pdf). 
 
@@ -55,4 +54,4 @@ These three hazards combined created the following 10 categories which show wher
   - Moderately Shallow Groundwater (6-9ft)
 
 ## Credits
-BCDC (2024). Bay Adapt Regional Shoreline Adaptation Plan Combined Hazards: SF Bay [spatial data file]. SF Bay Conservation and Development Commission. Accessed at ONLINE MAPPING PLATFORM.
+BCDC (2024). Bay Adapt Regional Shoreline Adaptation Plan Combined Hazards: SF Bay [spatial data file]. SF Bay Conservation and Development Commission. Accessed at RSAP Atlas.
